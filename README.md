@@ -73,8 +73,8 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-36&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-36&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-1015&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-1015&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br/><br/>
 <p align="">
   <a href="https://github.com/Ahsan-1015">
