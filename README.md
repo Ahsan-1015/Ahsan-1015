@@ -48,7 +48,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom"> Languages and Tools
 **Frontend**
 
-<img align="right" alt="Coder" width="600"  src="https://github.com/rokib97/flower-shop-conceptual-b10/blob/main/423455202_2233620376969786_1076808513639245129_n.png" />
+<img align="right" alt="Coder" width="500"  src="https://github.com/rokib97/flower-shop-conceptual-b10/blob/main/423455202_2233620376969786_1076808513639245129_n.png" />
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css" height="45"/>
