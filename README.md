@@ -48,6 +48,8 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom"> Languages and Tools
 **Frontend**
 
+<img align="right" alt="Browsing" width="400"  src=""C:\Users\User\Downloads\lets code your carear.png"" />
+
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css" height="45"/>
 </a>
