@@ -114,12 +114,6 @@
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ahsan-1015/Ahsan-1015/blob/main/images/svg/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ahsan-1015/Ahsan-1015/blob/main/images/svg/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Rezuan-Alam-Rean/Rezuan-Alam-Rean/blob/main/images/svg/github-contribution-grid-snake.svg">
-</picture>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <img width="1500px" height="10px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
