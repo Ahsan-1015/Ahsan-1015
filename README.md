@@ -8,7 +8,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<h4 align="center"> I'm a Computer Science major skilled in full-stack development, using Django for backend APIs and HTML, CSS, Tailwind, and JavaScript for a dynamic frontend. This combination allows me to build user-friendly and scalable web applications with the potential to reach millions of users. ️</h4>
+<h4 align="center"> I'm a Computer Science major skilled in full-stack development, using MongoDb for backend APIs and HTML, CSS, Tailwind, and JavaScript for a dynamic frontend. This combination allows me to build user-friendly and scalable web applications with the potential to reach millions of users. ️</h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <img align="right" alt="Browsing" width="400"  src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
