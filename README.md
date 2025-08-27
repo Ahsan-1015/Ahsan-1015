@@ -92,11 +92,13 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	
-<div align="center">
- <h1>Visitor count</h1>
 
- ![Visitor Count](https://profile-counter.glitch.me/Ahsan-1015/count.svg)
+<div align="center">
+  <h1>Visitor Count</h1>
+
+  <img src="https://profile-counter.deno.dev/Ahsan-1015/count.svg" alt="Visitor's Count" />
 </div>
+
 
 
  <details> 
