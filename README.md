@@ -4,8 +4,11 @@
 <h3 align="center">My Aim FUll-STACK developer from Bangladesh</h3>
 
 <div align='center'>
- <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=390&lines=★★★+Web+Developer+★★★;My+Aim+FULL-STACK+devol0per;I+am+Curently+learing+web+devolopment;in+Programming+hero;" alt="Typing SVG" /></a>
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F739&background=FF688800&multiline=true&width=435&lines=★★★+Web+Developer+★★★;My+Aim+FULL-STACK+devol0per;I+am+Curently+learing+web+devolopment;in+Programming+hero)](https://git.io/typing-svg)
 </div>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <h4 align="center"> I'm a Computer Science major skilled in full-stack development, using MongoDb for backend APIs and HTML, CSS, Tailwind, and JavaScript for a dynamic frontend. This combination allows me to build user-friendly and scalable web applications with the potential to reach millions of users. ️</h4>
