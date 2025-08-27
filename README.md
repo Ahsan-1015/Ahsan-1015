@@ -4,8 +4,7 @@
 <h3 align="center">My Aim FUll-STACK developer from Bangladesh</h3>
 
 <div align='center'>
-	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F739&background=FF688800&multiline=true&width=435&lines=★★★+Web+Developer+★★★;My+Aim+FULL-STACK+devol0per;I+am+Curently+learing+web+devolopment;in+Programming+hero)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=15F739&background=FF688800&multiline=true&width=535&height=100&lines=%E2%9C%A8+Code+is+like+art+%E2%80%93+I+believe+in+writing+it+beautifully.%22+;%E2%9C%A8+Every+line+of+code+is+a+step+toward+creating+something+meaningful.)](https://git.io/typing-svg)	
 </div>
 
 
