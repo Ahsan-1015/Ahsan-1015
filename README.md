@@ -62,7 +62,7 @@
 **Backend**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" height="45"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="45"/>
 </a>
 
 **Languages**
@@ -74,7 +74,7 @@
 **Tools**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,firebase,figma" height="45"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,firebase,figma,postman" height="45"/>
 </a>
 
 <br>
