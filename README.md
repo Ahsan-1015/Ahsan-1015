@@ -95,9 +95,9 @@
 <div align="center">
  <h1>Visitor count</h1>
 
-    
-![Visitor Count](https://profile-counter.glitch.me/{Ahsan-1015}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/Ahsan-1015/count.svg)
 </div>
+
 
  <details> 
    
