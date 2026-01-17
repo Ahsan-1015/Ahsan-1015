@@ -1,4 +1,4 @@
-name: Generate 3D Contribution Graph
+name: 3D Contribution Graph
 
 on:
   schedule:
@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Ahsan-1015
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
