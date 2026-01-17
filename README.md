@@ -96,6 +96,7 @@
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## 🧠 GitHub Metrics
+<img src="https://raw.githubusercontent.com/Ahsan-1015/Ahsan-1015/output/metrics.svg" />
 
 ![Metrics](https://metrics.lecoq.io/Ahsan-1015?template=classic&languages=1&achievements=1&activity=1&lines=1&repositories=1&theme=dark)
 
@@ -104,7 +105,7 @@
 ## 🧩 3D Contribution Graph
 
 <p align="center">
-<img src="https://github.com/Ahsan-1015/Ahsan-1015/blob/output/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://raw.githubusercontent.com/Ahsan-1015/Ahsan-1015/output/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -126,7 +127,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/Ahsan-1015/Ahsan-1015/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/Ahsan-1015/Ahsan-1015/output/pacman-contribution-graph.svg">
+ <img src="https://raw.githubusercontent.com/Ahsan-1015/Ahsan-1015/output/pacman-contribution-graph.svg" />
+
+
 </picture>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
