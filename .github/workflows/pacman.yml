@@ -2,11 +2,11 @@ name: Pacman Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 jobs:
-  pacman:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -14,5 +14,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Ahsan-1015
           plugin_pacman: yes
-          plugin_pacman_segments: 1,2,3,4
+          plugin_pacman_days: 365
           filename: pacman-contribution-graph.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
