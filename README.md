@@ -111,10 +111,12 @@
 
 ## 🐍 Snake Contribution
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/Ahsan-1015/Ahsan-1015/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Ahsan-1015/Ahsan-1015/output/github-snake.svg">
+<img src="https://raw.githubusercontent.com/Ahsan-1015/Ahsan-1015/output/github-snake.svg" />
+
 </picture>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
