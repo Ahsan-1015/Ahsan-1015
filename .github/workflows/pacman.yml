@@ -6,21 +6,25 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  pacman:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman graph
+        uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
           user: Ahsan-1015
           plugin_pacman: yes
           plugin_pacman_days: 365
           filename: pacman-contribution-graph.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: .
-       env:
-  GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
