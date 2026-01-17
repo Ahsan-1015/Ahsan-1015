@@ -124,6 +124,12 @@
   <img src="https://raw.githubusercontent.com/Ahsan-1015/Ahsan-1015/output/github-snake.svg" alt="snake animation" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahsan-1015 /Ahsan-1015 /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahsan-1015 /Ahsan-1015 /output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ahsan-1015 /Ahsan-1015 /output/pacman-contribution-graph.svg">
+</picture>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <img width="1500px" height="10px" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
